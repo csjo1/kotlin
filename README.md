@@ -1,1 +1,1 @@
-~~~ Kotlin for android ~~~
+ Kotlin for android
